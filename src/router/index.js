@@ -3,6 +3,7 @@ import Login from '../views/Login.vue'
 import Gestion from '../views/Gestion.vue'
 import Doctors from '../views/Doctors.vue'
 import Pacientes from '../views/Pacientes.vue'
+import Top from '../views/Top.vue'
 const routes = [
   {
     path: '/',
@@ -13,6 +14,11 @@ const routes = [
     path: '/Gestion',
     name: 'Gestion',
     component: Gestion
+  },
+  {
+    path: '/Top',
+    name: 'Top',
+    component: Top
   },
   {
     path: '/Pacientes',

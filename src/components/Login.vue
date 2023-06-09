@@ -10,7 +10,7 @@
                         <input class="form-control" type="text" name="" id="" placeholder="Contraseña">
                     </div>
                     <div class="col-md-12">
-                        <router-link to="/Gestion" class="btn btn-info mb-5">Acceder</router-link>
+                        <router-link to="/Top" class="btn btn-info mb-5">Acceder</router-link>
                     </div>
                 </div>
             </form>
