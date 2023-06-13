@@ -14,8 +14,8 @@
                     Doctores
                     </a>
                     <div class="dropdown-menu">
-                    <a class="dropdown-item" href="#">Action</a>
-                    <a class="dropdown-item" href="#">Another action</a>
+                    <router-link class="dropdown-item" to="/Doctors" >Lista</router-link >
+                    <a class="dropdown-item" href="#">Nuevo</a>
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="#">Something else here</a>
                     </div>
