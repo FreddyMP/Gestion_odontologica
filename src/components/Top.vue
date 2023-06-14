@@ -11,7 +11,7 @@
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
-                    Doctores
+                        <i class="bi bi-file-earmark-person"></i> Doctores
                     </a>
                     <div class="dropdown-menu">
                     <router-link class="dropdown-item" to="/Doctors" >Lista</router-link >
@@ -22,7 +22,7 @@
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
-                    Pacientes
+                        <i class="bi bi-people"></i> Pacientes
                     </a>
                     <div class="dropdown-menu">
                     <a class="dropdown-item" href="#">Action</a>
@@ -33,7 +33,7 @@
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
-                    Control de citas
+                        <i class="bi bi-calendar-date"></i> Control de citas
                     </a>
                     <div class="dropdown-menu">
                     <a class="dropdown-item" href="#">Action</a>
@@ -44,7 +44,7 @@
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
-                    Administración
+                        <i class="bi bi-ui-radios-grid"></i> Administración
                     </a>
                     <div class="dropdown-menu">
                     <a class="dropdown-item" href="#">Action</a>
@@ -55,7 +55,7 @@
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
-                    Ingresos
+                        <i class="bi bi-cash-stack"></i> Ingresos
                     </a>
                     <div class="dropdown-menu">
                     <a class="dropdown-item" href="#">Action</a>
@@ -66,7 +66,7 @@
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
-                    Gastos
+                        <i class="bi bi-cash-coin"></i> Gastos
                     </a>
                     <div class="dropdown-menu">
                     <a class="dropdown-item" href="#">Action</a>
@@ -77,7 +77,7 @@
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
-                    Farmacia
+                        <i class="bi bi-bag"></i>  Farmacia
                     </a>
                     <div class="dropdown-menu">
                     <a class="dropdown-item" href="#">Action</a>

@@ -1,20 +1,22 @@
 <template>
-    <div class="doctors">
-      <ul class="nav nav-tabs">
-  <li class="nav-item">
-    <a class="nav-link active" href="#">Active</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link">Link</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" >Link</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link disabled">Disabled</a>
-  </li>
-</ul>
+  <div class="container">
+    <div class="form">
+      <div class="row">
+        <div class="col-md-4">
+            <input type="text" name="" id="" placeholder="Código">
+        </div>
+        <div class="col-md-4">
+            <input type="text" name="" id="" placeholder="Nombres">
+        </div>
+        <div class="col-md-4">
+            <input type="text" name="" id="" placeholder="Apellidos">
+        </div>
+        <div class="col-md-4">
+            <input type="text" name="" id="" placeholder="Especialidad">
+        </div>
+      </div>
     </div>
+  </div>
 </template>
   
   <script>
